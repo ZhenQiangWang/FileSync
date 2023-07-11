@@ -1,0 +1,8 @@
+# MongoDB 连接信息
+MONGODB_HOST = 'localhost'
+MONGODB_PORT = 27017
+MONGODB_DATABASE = 'fileSync'
+MONGODB_SYNC_LOG_COLLECTION = 'sync_log'
+MONGODB_SYNC_CONFIG_COLLECTION = 'sync_config'
+
+LOG_DIR = 'D://log'
