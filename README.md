@@ -1,0 +1,7 @@
+# FileSync
+文件同步工具
+前端基于vue2实现
+后端基于Python Flask框架实现
+数据库使用mongoDB
+文件实时监控基于watchdog.observers实现
+后端结构参考SpringBoot
